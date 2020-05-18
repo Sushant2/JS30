@@ -1,5 +1,8 @@
 # JS30
-30 Days 30 Projects In Vanilla JS
+30 Days 30 Projects In Vanilla JS Course
+                               - Wes Bos
+___
+With no Frameworks, no Compilers, No Libraries & no Boilerplate!
 ___
 **Day 1** : _Drum Kit Project_ with basic Javascript!
 <br />
