@@ -9,3 +9,5 @@ ___
 **Day 2** : _Clock_ with js & little bit css properties like rotate, transform!
 <br />
 **Day 3** : _CSS Variables_ like root and how to use them with other properties!
+<br />
+**Day 4** : _Array Cardio_ learnt & practing with some predefined function of array in JS like .reduce/.map/.sort/.filter/.includes etc...
