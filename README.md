@@ -14,3 +14,5 @@ ___
 **Day 3** : _CSS Variables_ like root and how to use them with other properties!
 <br />
 **Day 4** : _Array Cardio_ learnt & practing with some predefined function of array in JS like .reduce/.map/.sort/.filter/.includes etc...
+<br />
+**Day 5** : _Flex-Panels_ played with some transition method, flex-properties, more css than js
