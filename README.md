@@ -4,8 +4,9 @@
 ___
 With no Frameworks, no Compilers, No Libraries & no Boilerplate!
 ___
-This challange is just awesome, i'm daily learning new & cool stuff in JS!
-> I'll recommend to give this a try [JS30](https://javascript30.com/)
+> I'll recommend to give this a try, if u want to revise your basics! [JS30](https://javascript30.com/)
+___
+Here are some short desc. about what included in projects!
 ___
 **Day 1** : _Drum Kit Project_ with basic Javascript!
 <br />
