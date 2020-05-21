@@ -16,3 +16,5 @@ ___
 **Day 4** : _Array Cardio_ learnt & practing with some predefined function of array in JS like .reduce/.map/.sort/.filter/.includes etc...
 <br />
 **Day 5** : _Flex-Panels_ played with some transition method, flex-properties, more css than js
+<br />
+**Day 6**: _Ajax Type_ using REGEXP for regular expression,using a dropdown type css & fetch module to fetch the data of API
