@@ -7,6 +7,7 @@ ___
 > I'll recommend to give this a try, if u want to revise your basics! [JS30](https://javascript30.com/)
 ___
 ### Here are some short desc. about listed projects :
+
 **Day 1** : _Drum Kit Project_ with basic Javascript!
 <br />
 **Day 2** : _Clock_ with js & little bit css properties like rotate, transform!
@@ -16,3 +17,5 @@ ___
 **Day 4** : _Array Cardio_ learnt & practing with some predefined function of array in JS like .reduce/.map/.sort/.filter/.includes etc...
 <br />
 **Day 5** : _Flex-Panels_ played with some transition method, flex-properties, more css than js
+<br />
+**Day 6**: _Ajax Type_ using REGEXP for regular expression,using a dropdown type css & fetch module to fetch the data of API
