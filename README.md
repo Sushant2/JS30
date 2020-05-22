@@ -19,4 +19,5 @@ ___
 **Day 5** : _Flex-Panels_ played with some transition method, flex-properties, more css than js
 <br />
 **Day 6**: _Ajax Type_ using REGEXP for regular expression,using a dropdown type css & fetch module to fetch the data of API
->>>>>>> 07934eb0699f2d75032a42692225d5f1b1c0a786
+<br />
+**Day 7**: _Array Cardio Day 2_ practicing with array functions like find, findindex, some, every
