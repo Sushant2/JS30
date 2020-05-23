@@ -21,3 +21,5 @@ ___
 **Day 6**: _Ajax Type_ using REGEXP for regular expression,using a dropdown type css & fetch module to fetch the data of API
 <br />
 **Day 7**: _Array Cardio Day 2_ practicing with array functions like find, findindex, some, every
+<br />
+**Day 8**: _HTMl% Canvas_ Canvas is a HTML element which is used to draw on web pages, & with some JS to make it some designs on it!
