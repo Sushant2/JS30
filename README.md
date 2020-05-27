@@ -1,3 +1,6 @@
+![](https://img.shields.io/badge/Javascript-VanillaJS-blue)
+![](https://img.shields.io/badge/Challenge-30Days-orange)
+
 # JS30
 30 Days 30 Projects In Vanilla JS Course
                                - Wes Bos
