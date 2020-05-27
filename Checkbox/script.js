@@ -5,6 +5,7 @@ let lastChecked;
 function handleCheck(e){
     //check if they had the shift key down
     //check that they are checking it
+    
     let inBetween = false;
     if(e.shiftKey&& this.checked){
         //go ahead and do what we please
