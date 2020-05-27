@@ -24,4 +24,6 @@ ___
 <br />
 **Day 8**: _HTMl5 Canvas_ Canvas is a HTML element which is used to draw on web pages, & with some JS to make it some designs on it. There are some JS properties which are new to work with!
 <br />
-**Day 9** _Dev Tools_ This is the awesome episode for console practice... such as assert, warn, table, timing, count, and many more!
+**Day 9**: _Dev Tools_ This is the awesome episode for console practice... such as assert, warn, table, timing, count, and many more!
+<br />
+**Day 10**: _Checkboxes_ created gmail type feature to select multiple checkboxes in one click with shiftdown key!
