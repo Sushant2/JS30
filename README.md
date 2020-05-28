@@ -32,3 +32,4 @@ ___
 **Day 10**: _Checkboxes_ created gmail type feature to select multiple checkboxes in one click with shiftdown key!
 <br />
 **Day 11**: _Video Player_ modified basic HTML5 video player with some cool CSS & make it  alive by giving functionality to feature using vanillaJS!
+<br />
