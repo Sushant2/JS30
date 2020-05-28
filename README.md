@@ -30,3 +30,5 @@ ___
 **Day 9**: _Dev Tools_ This is the awesome episode for console practice... such as assert, warn, table, timing, count, and many more!
 <br />
 **Day 10**: _Checkboxes_ created gmail type feature to select multiple checkboxes in one click with shiftdown key!
+<br />
+**Day 11**: _Video Player_ modified basic HTML5 video player with some cool CSS & make it  alive by giving functionality to feature using vanillaJS
