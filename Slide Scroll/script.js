@@ -21,11 +21,20 @@ const sliderImages = document.querySelectorAll('.slide-in');
 function checkSlide(e){
     // console.log(window.scrollY);
     // console.log(window.innerHeight);
-
-    sliderImages.forEach(slideImage => {
+    sliderImages.forEach(sliderImage => {
+        //half way through the image
         const slideInAt = (window.scrollY + window.innerHeight);
-        console.log(slideInAt);
-        
+        // console.log(slideInAt);
+        sliderImage.height / 2; //this will give the pixel level when the each of the image should be slide in & at!
+        //bottom of the image
+        const imageBottom = sliderImage.offsetTop + sliderImage.height;
+        const isHalfShown = slideInAt > sliderImage.offsetTop;
+        const isNotScrollPast = window.scrollY < imageBottom;
+        if(isHalfShown && isNotScrollPast){
+            sliderImage.classList.add('active');
+        }else{
+            sliderImage.classList.add('active');
+        }
     });
 }
 
