@@ -34,3 +34,5 @@ ___
 **Day 11**: _Video Player_ modified basic HTML5 video player with some cool CSS & make it  alive by giving functionality to feature using vanillaJS!
 <br />
 **Day 12**: _KONAMI Codes_ it's fun while building your own secret codes, such as when you've some secret codes to turn off the calculator!
+<br />
+**Day 13**: _Scroll & Slide_ It's a type of animation effect while scrolling down & up in a webpage then images will scroll in to the page, it's done with the help of debouncing function of JS!
