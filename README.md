@@ -33,3 +33,4 @@ ___
 <br />
 **Day 11**: _Video Player_ modified basic HTML5 video player with some cool CSS & make it  alive by giving functionality to feature using vanillaJS!
 <br />
+**Day 12**: _KONAMI Codes_ it's fun while building your own secret codes, such as when you've some secret codes to turn off the calculator!
