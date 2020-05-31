@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/Javascript-VanillaJS-blue)
 ![](https://img.shields.io/badge/Challenge-30Days-orange)
+![](https://img.shields.io/badge/Recommended-Tryit-green)
 
 # JS30
 30 Days 30 Projects In Vanilla JS Course
