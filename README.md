@@ -1,5 +1,6 @@
 ![](https://img.shields.io/badge/Javascript-VanillaJS-blue)
 ![](https://img.shields.io/badge/Challenge-30Days-orange)
+![](https://img.shields.io/badge/Recommended-Tryit-green)
 
 # JS30
 30 Days 30 Projects In Vanilla JS Course
@@ -36,3 +37,5 @@ ___
 **Day 12**: _KONAMI Codes_ it's fun while building your own secret codes, such as when you've some secret codes to turn off the calculator!
 <br />
 **Day 13**: _Scroll & Slide_ It's a type of animation effect while scrolling down & up in a webpage then images will scroll in to the page, it's done with the help of debouncing function of JS!
+<br />
+**Day 14**: _Reference & Copy_ taken array, strings, objects for practicing on reference & copy by various methods such as ES6 spread, parsing, concatenate & more!
