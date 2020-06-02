@@ -4,13 +4,25 @@ const items = [];
 
 function addItem(e){
     e.preventDefault();
-    const text = this.querySelector('[name=item]');
+    const text = (this.querySelector('[name=item]')).value;
     const item = {
-        text: 'Item Name',
+        text: text, // or we can write single text only acc. to ES6
         done: false
-    }
-    
+    };
+    // console.log(item);
+    items.push(item);
+    populateList(items, itemsList);
+    this.reset();
 }
 
+function populateList(plates = [], platesList){
+    platesList.innerHTML = plates.map((plate, i)=> {
+        return `
+        <li>
+            <label for="">${plate.text}</label>
+        </li>
+        `;
+    }).join('');
+}
 
 addItems.addEventListener('submit', addItem);
