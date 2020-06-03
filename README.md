@@ -39,3 +39,5 @@ ___
 **Day 13**: _Scroll & Slide_ It's a type of animation effect while scrolling down & up in a webpage then images will scroll in to the page, it's done with the help of debouncing function of JS!
 <br />
 **Day 14**: _Reference & Copy_ taken array, strings, objects for practicing on reference & copy by various methods such as ES6 spread, parsing, concatenate & more!
+<br />
+**Day 15**: _local Storage_
